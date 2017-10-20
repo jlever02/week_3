@@ -1,0 +1,33 @@
+    img {
+      width:60%;
+    }
+    
+    body {
+      color:gray;
+    }
+    h1:hover {
+      color:blue;
+    }
+    a:visited {
+      text-decoration: none;
+    }
+    
+    header {
+      width:75%;
+      margin:auto;
+      background-color:black;
+      color:White;
+    }
+    
+    article {
+      width:50%;
+      margin:auto;
+      background-color:green;
+      color:White;
+    
+    }
+    
+    footer {
+      border:1px solid red; 
+      border-radius:20px;
+    }
